@@ -143,10 +143,10 @@ BOT_ENG = {
 	color_ui = rgb { 255 73 121 }
 }
 
-ENG_FBU = {
-	color = rgb { 201 56 93 }
-	color_ui = rgb { 255 73 121 }
-}
+# ENG_FBU = {
+# 	color = rgb { 201 56 93 }
+# 	color_ui = rgb { 255 73 121 }
+# }
 
 UAE_ENG = {
 	color = rgb { 201 56 93 }
@@ -513,4 +513,53 @@ sokoto_caliphate = {
 ARU = {
 	color = rgb { 0 96 0 }
 	color_ui = rgb { 0 96 0 }
+}
+
+SEN_STATE_FRA = {
+	color = rgb { 30 100 230 }
+	color_ui = rgb { 74 147 255 }
+}
+RCG_STATE_FRA = {
+	color = rgb { 30 100 230 }
+	color_ui = rgb { 74 147 255 }
+}
+MRT_STATE_FRA = {
+	color = rgb { 30 100 230 }
+	color_ui = rgb { 74 147 255 }
+}
+MLI_STATE_FRA = {
+	color = rgb { 30 100 230 }
+	color_ui = rgb { 74 147 255 }
+}
+VOL_STATE_FRA = {
+	color = rgb { 30 100 230 }
+	color_ui = rgb { 74 147 255 }
+}
+IVO_STATE_FRA = {
+	color = rgb { 30 100 230 }
+	color_ui = rgb { 74 147 255 }
+}
+CHA_STATE_FRA = {
+	color = rgb { 30 100 230 }
+	color_ui = rgb { 74 147 255 }
+}
+CAR_STATE_FRA = {
+	color = rgb { 30 100 230 }
+	color_ui = rgb { 74 147 255 }
+}
+MAD_STATE_FRA = {
+	color = rgb { 30 100 230 }
+	color_ui = rgb { 74 147 255 }
+}
+DAH_STATE_FRA = {
+	color = rgb { 30 100 230 }
+	color_ui = rgb { 74 147 255 }
+}
+GAB_STATE_FRA = {
+	color = rgb { 30 100 230 }
+	color_ui = rgb { 74 147 255 }
+}
+NGR_STATE_FRA = {
+	color = rgb { 30 100 230 }
+	color_ui = rgb { 74 147 255 }
 }
